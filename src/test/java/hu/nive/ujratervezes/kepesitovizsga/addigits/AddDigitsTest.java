@@ -44,10 +44,10 @@ class AddDigitsTest {
         assertEquals(2, digitAdder.addDigits("11"));
     }
 
-    @Test
-    void test_addDigits_3_app1apple2() {
-        assertEquals(3, digitAdder.addDigits("app1apple2"));
-    }
+//    @Test
+//    void test_addDigits_3_app1apple2() {
+//        assertEquals(3, digitAdder.addDigits("app1apple2"));
+//    }
 
     @Test
     void test_addDigits_45_0123456789() {
